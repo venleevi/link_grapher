@@ -100,13 +100,13 @@ def find_links_from_html(html, max_links=MAX_LINKS_PER_PAGE):
                                         'title': True,         # Also a link
                                         'dir': False,          # We do not want ones with dir nor
                                         'accesskey': False},   # accesskey attributes.
-                                    class_=None,                       # Should not have a class
+                                    class_=None,               # Should not have a class
                                     limit=max_links)
-    # TODO: Make this part more efficient! Very inefficient!!!!
+    # TODO: Make this part more efficient!
     # remove all that do not match "/wiki/" and does not contain "Wikipedia:" or "Category:" in it
     links = list(filter(link_filter, links))
     titles = list(map(lambda x: x['title'], links))      # extract the 'title' attribute
-    links = list(map(lambda x: x['href'], links))       # extract the 'href' attribute
+    links = list(map(lambda x: x['href'], links))        # extract the 'href' attribute
     return title_filter(soup.title.text), links, titles
 
 
@@ -192,7 +192,6 @@ def plotly_graph_test():
     graph.add_edges_from(map(lambda x: ("0", str(x)), [x for x in range(1, 10)]))
 
     plotly_graph(graph)
-
 
 # ----------------------------------------------------------------------------------------------------------------------
 
