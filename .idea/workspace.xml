@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cfec5f78-686d-471b-b32f-95232c6251d4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/notebook.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wikipedia.html" beforeDir="false" afterPath="$PROJECT_DIR$/wikipedia.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="0d6cf195-b79f-4f2e-9934-957f82888962" />
+  <component name="ProjectId" id="1jucpDgDiFgCbPi9CMRnzg4EFk6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="link_network" type="PythonConfigurationType" factoryName="Python">
+      <module name="link_network" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfec5f78-686d-471b-b32f-95232c6251d4" name="Default Changelist" comment="" />
+      <created>1604657597887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604657597887</updated>
+      <workItem from="1604657619321" duration="18000" />
+      <workItem from="1604657640963" duration="285000" />
+      <workItem from="1604657951113" duration="841000" />
+      <workItem from="1604658813979" duration="22261000" />
+      <workItem from="1604750316025" duration="6137000" />
+      <workItem from="1604861853551" duration="6271000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added .gitignore">
+      <created>1604863026201</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604863026201</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added .gitignore" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1236" y="464" key="#xdebugger.evaluate" timestamp="1604677673749">
+      <screen x="-1920" y="308" width="1858" height="1080" />
+    </state>
+    <state x="-1236" y="464" key="#xdebugger.evaluate/0.0.1304.912/-3840.294.1858.1080/-1920.308.1858.1080@-1920.308.1858.1080" timestamp="1604677673749" />
+    <state width="564" height="637" key="DebuggerActiveHint" timestamp="1604866301765">
+      <screen x="-1920" y="308" width="1858" height="1080" />
+    </state>
+    <state width="564" height="637" key="DebuggerActiveHint/0.0.1304.912/-3840.294.1858.1080/-1920.308.1858.1080@-1920.308.1858.1080" timestamp="1604866301765" />
+    <state x="-1211" y="602" key="FileChooserDialogImpl" timestamp="1604862654046">
+      <screen x="-1920" y="308" width="1858" height="1080" />
+    </state>
+    <state x="-1211" y="602" key="FileChooserDialogImpl/0.0.1304.912/-3840.294.1858.1080/-1920.308.1858.1080@-1920.308.1858.1080" timestamp="1604862654046" />
+    <state x="-1318" y="679" width="597" height="361" key="Github.ShareDialog" timestamp="1604862785947">
+      <screen x="-1920" y="308" width="1858" height="1080" />
+    </state>
+    <state x="-1318" y="679" width="597" height="361" key="Github.ShareDialog/0.0.1304.912/-3840.294.1858.1080/-1920.308.1858.1080@-1920.308.1858.1080" timestamp="1604862785947" />
+    <state x="-1308" y="470" key="Github.UntrackedFilesDialog" timestamp="1604862865033">
+      <screen x="-1920" y="308" width="1858" height="1080" />
+    </state>
+    <state x="-1308" y="470" key="Github.UntrackedFilesDialog/0.0.1304.912/-3840.294.1858.1080/-1920.308.1858.1080@-1920.308.1858.1080" timestamp="1604862865033" />
+    <state width="1815" height="356" key="GridCell.Tab.0.bottom" timestamp="1604866677381">
+      <screen x="-1920" y="308" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="356" key="GridCell.Tab.0.bottom/0.0.1304.912/-3840.294.1858.1080/-1920.308.1858.1080@-1920.308.1858.1080" timestamp="1604866677381" />
+    <state width="1815" height="356" key="GridCell.Tab.0.center" timestamp="1604866677381">
+      <screen x="-1920" y="308" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="356" key="GridCell.Tab.0.center/0.0.1304.912/-3840.294.1858.1080/-1920.308.1858.1080@-1920.308.1858.1080" timestamp="1604866677381" />
+    <state width="1815" height="356" key="GridCell.Tab.0.left" timestamp="1604866677380">
+      <screen x="-1920" y="308" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="356" key="GridCell.Tab.0.left/0.0.1304.912/-3840.294.1858.1080/-1920.308.1858.1080@-1920.308.1858.1080" timestamp="1604866677380" />
+    <state width="1815" height="356" key="GridCell.Tab.0.right" timestamp="1604866677381">
+      <screen x="-1920" y="308" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="356" key="GridCell.Tab.0.right/0.0.1304.912/-3840.294.1858.1080/-1920.308.1858.1080@-1920.308.1858.1080" timestamp="1604866677381" />
+    <state width="1815" height="356" key="GridCell.Tab.1.bottom" timestamp="1604866677381">
+      <screen x="-1920" y="308" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="356" key="GridCell.Tab.1.bottom/0.0.1304.912/-3840.294.1858.1080/-1920.308.1858.1080@-1920.308.1858.1080" timestamp="1604866677381" />
+    <state width="1815" height="356" key="GridCell.Tab.1.center" timestamp="1604866677381">
+      <screen x="-1920" y="308" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="356" key="GridCell.Tab.1.center/0.0.1304.912/-3840.294.1858.1080/-1920.308.1858.1080@-1920.308.1858.1080" timestamp="1604866677381" />
+    <state width="1815" height="356" key="GridCell.Tab.1.left" timestamp="1604866677381">
+      <screen x="-1920" y="308" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="356" key="GridCell.Tab.1.left/0.0.1304.912/-3840.294.1858.1080/-1920.308.1858.1080@-1920.308.1858.1080" timestamp="1604866677381" />
+    <state width="1815" height="356" key="GridCell.Tab.1.right" timestamp="1604866677381">
+      <screen x="-1920" y="308" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="356" key="GridCell.Tab.1.right/0.0.1304.912/-3840.294.1858.1080/-1920.308.1858.1080@-1920.308.1858.1080" timestamp="1604866677381" />
+    <state x="-3292" y="461" key="SettingsEditor" timestamp="1604750572097">
+      <screen x="-3840" y="294" width="1858" height="1080" />
+    </state>
+    <state x="-3292" y="461" key="SettingsEditor/0.0.1304.912/-3840.294.1858.1080/-1920.308.1858.1080@-1920.308.1858.1080" timestamp="1604750572097" />
+    <state x="-1399" y="576" key="Vcs.Push.Dialog.v2" timestamp="1604863065913">
+      <screen x="-1920" y="308" width="1858" height="1080" />
+    </state>
+    <state x="-1399" y="576" key="Vcs.Push.Dialog.v2/0.0.1304.912/-3840.294.1858.1080/-1920.308.1858.1080@-1920.308.1858.1080" timestamp="1604863065913" />
+    <state width="937" height="548" key="XDebugger.FullValuePopup" timestamp="1604659902639">
+      <screen x="-1920" y="308" width="1858" height="1080" />
+    </state>
+    <state width="937" height="548" key="XDebugger.FullValuePopup/0.0.1304.912/-3840.294.1858.1080/-1920.308.1858.1080@-1920.308.1858.1080" timestamp="1604659902639" />
+    <state x="-1328" y="543" width="672" height="678" key="search.everywhere.popup" timestamp="1604751951969">
+      <screen x="-1920" y="308" width="1858" height="1080" />
+    </state>
+    <state x="-1328" y="543" width="672" height="678" key="search.everywhere.popup/0.0.1304.912/-3840.294.1858.1080/-1920.308.1858.1080@-1920.308.1858.1080" timestamp="1604751951969" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/link_network$link_network.coverage" NAME="link_network Coverage Results" MODIFIED="1604866632326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

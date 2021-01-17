@@ -1,0 +1,5 @@
+networkx
+beautifulsoup4
+plotly
+requests
+numpy
