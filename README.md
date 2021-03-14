@@ -4,7 +4,7 @@ Weekend project that started from the thought that what kind of a graph would Wi
 
 ## Problems:
 
-As mentioned this was a quick weekend project and traversing the wikipedia pages using HTML requests isn't really the most efficient approach. On the other hand ````GET``` requests can't be done too fast and the number of pages grows very rapidly!
+As mentioned this was a quick weekend project and traversing the wikipedia pages using HTML requests isn't really the most efficient approach. On the other hand ```GET``` requests can't be done too fast and the number of pages grows very rapidly!
 
 ## How to fix / future ideas:
 
